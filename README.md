@@ -13,13 +13,18 @@ The following restrictions must be taken into account:
 - Las letras deben estar separadas.
 
 
-# Tool design.
+## Tool design.
 
-# RAPID code of the module used for the development of the practice.
+## RAPID code of the module used for the development of the practice.
 
-# Video containing the simulation in Robotstudio.
+## Video containing the simulation in Robotstudio.
 
-# Description of the proposed solution.
+## Description of the proposed solution.
+
+
+## Conclusions
+ - The horizontal board where the robot writes has slopes, which means that the lines are not as we want.
+ - 
 
 
 
