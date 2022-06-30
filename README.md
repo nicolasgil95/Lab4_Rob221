@@ -14,6 +14,9 @@ The following restrictions must be taken into account:
 
 
 ## Tool design.
+The tool has been designed to be manufactured with addictive manufacturing. Therefore,  there is a spring inside that will be responsible for pushing the marker.
+
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qmg3Xvg/Whats-App-Image-2022-06-29-at-8-45-16-PM.jpg" alt="Whats-App-Image-2022-06-29-at-8-45-16-PM" border="0"></a>
 ## Robot Studio Simulation
 
