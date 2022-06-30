@@ -21,7 +21,7 @@ To achive the goal of this lab we generated the set of points on an horizontal p
 
 After checking the trajectory generated for the horizntal plane, we generated another _WorkObject_ which described the 30° rotated plane. In this new _WorkObject_ the previusly defined points were copied from the previous _WorkObject_ and the new trajectory was generated using the same parameters.
 
-In this [link](link: https://youtu.be/7uJFcwLbrFM) you will find the video of the paths simulated in RS. There is possible to see how the TCP travels around the world and draws the desired letters.
+In this _[link](https://youtu.be/7uJFcwLbrFM)_ you will find the video of the paths simulated in RS. There is possible to see how the TCP travels around the world and draws the desired letters.
 
 Sadly we couldn't make a real use of the robot due to the low available time to use them.
 
