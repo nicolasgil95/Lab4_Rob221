@@ -14,8 +14,10 @@ The following restrictions must be taken into account:
 
 
 ## Tool design.
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qmg3Xvg/Whats-App-Image-2022-06-29-at-8-45-16-PM.jpg" alt="Whats-App-Image-2022-06-29-at-8-45-16-PM" border="0"></a>
 ## RAPID code of the module used for the development of the practice.
+
+you can go to the Rapid Program folder where the code is located.
 
 ## Video containing the simulation in Robotstudio.
 
@@ -29,7 +31,8 @@ Firstly, the real robot tool has been calibrated, which has been given the optio
 
 ## Conclusions
  - The horizontal board where the robot writes has slopes, which means that the lines are not as we want.
- - 
+ - Calibrating the real robot tool is more complicated than the simulated one, since, with a minimum error when data is taken, it can be converted into several millimeters of error.
+
 
 
 
