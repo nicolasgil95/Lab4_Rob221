@@ -26,6 +26,8 @@ In this _[link](https://youtu.be/7uJFcwLbrFM)_ you will find the video of the pa
 Sadly we couldn't make a real use of the robot due to the low available time to use them.
 
 ## Description of the proposed solution.
+The letters that have been chosen with the initial of our names are `LJN`
+
 Firstly, the real robot tool has been calibrated, which has been given the option to insert 4 points on the flexpendant with different tool orientation.in this case, the end effector of the tool always had to arrive at the same position. On the other hand, in the same panel, a point was inserted where the tool is perpendicular to the xy plane of the deck, and the tip of the tool has the same position as the previous points.This module has been named as follows, and you can find it with the other files.
 
 
