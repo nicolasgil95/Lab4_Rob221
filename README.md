@@ -27,9 +27,11 @@ To achive the goal of this lab we generated the set of points on an horizontal p
 
 After checking the trajectory generated for the horizntal plane, we generated another _WorkObject_ which described the 30° rotated plane. In this new _WorkObject_ the previusly defined points were copied from the previous _WorkObject_ and the new trajectory was generated using the same parameters.
 
-In this _[link](https://youtu.be/7uJFcwLbrFM)_ you will find the video of the paths simulated in RS. There is possible to see how the TCP travels around the world and draws the desired letters.
+In this [link](https://youtu.be/7uJFcwLbrFM) you will find the video of the paths simulated in RS. There is possible to see how the TCP travels around the world and draws the desired letters.
 
 Sadly we couldn't make a real use of the robot due to the low available time to use them.
+
+On 30/06/2022 we were able to use the robot on LabSir. [Here](https://youtube.com/shorts/5zYbWFITxb0) you will find the results of these work. In practice we only had to adjust the height of the points to reach the actual height of the boards installed.
 
 ## Description of the proposed solution.
 The letters that have been chosen with the initial of our names are `LJN`
