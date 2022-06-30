@@ -29,6 +29,7 @@ Sadly we couldn't make a real use of the robot due to the low available time to 
 Firstly, the real robot tool has been calibrated, which has been given the option to insert 4 points on the flexpendant with different tool orientation.in this case, the end effector of the tool always had to arrive at the same position. On the other hand, in the same panel, a point was inserted where the tool is perpendicular to the xy plane of the deck, and the tip of the tool has the same position as the previous points.This module has been named as follows, and you can find it with the other files.
 
 
+`TCPZ_tool_jnj1.MOD`
 
 <a href="https://ibb.co/Kr4vLxD"><img src="https://i.ibb.co/mcZWX50/Screenshot-from-2022-06-29-21-11-17.png" alt="Screenshot-from-2022-06-29-21-11-17" border="0"></a>
 
