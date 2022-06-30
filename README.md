@@ -43,7 +43,9 @@ Firstly, the real robot tool has been calibrated, which has been given the optio
 
 ## Conclusions
  - The horizontal board where the robot writes has slopes, which means that the lines are not as we want.
+ - When replicating the horizontal plane trajectory in the inclined plane, it is mandatory to identify some "special" points, or more precisely, poses in where the multiplicity of solutions could make some troubles. It is then the robotist's job to clearly specify the more convenient set of joint configurations that prevent any undesired robot behaviour.
  - Calibrating the real robot tool is more complicated than the simulated one, since, with a minimum error when data is taken, it can be converted into several millimeters of error.
+ - It turns to be very important the use of the concept of _WorkObject_ in many robot applications. It is not only an elegant way to define every pose relative to it, but it is also immensely useful when a repetitive task, but in another orientation, is required.
 
 
 
